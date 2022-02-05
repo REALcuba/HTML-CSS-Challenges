@@ -81,6 +81,7 @@ footer {
   background-color: white;
   text-align: justify;
   letter-spacing: 1px;
+  
 }
 
 #badge {
@@ -112,6 +113,7 @@ footer {
 .image-container {
   vertical-align: top;
  display: flex;
+ justify-content: space-between;
 }
 
 .image-container img:first-of-type {
