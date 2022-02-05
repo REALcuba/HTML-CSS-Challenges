@@ -79,8 +79,7 @@ footer {
 
 .introduction {
   background-color: white;
-  text-align: justify;
-  letter-spacing: 1px;
+  line-height: 1.5rem;
   
 }
 
@@ -98,11 +97,12 @@ footer {
   justify-content: center;
   align-content: center;
   flex-direction: column;
+   transition: background-color 2s;
 }
 
 #badge:hover {
   background-color: yellow;
-  transition: background-color 2s;
+ 
 }
 
 #badge p {
@@ -116,9 +116,9 @@ footer {
  justify-content: space-between;
 }
 
-.image-container img:first-of-type {
+/* .image-container img:first-of-type {
   vertical-align: bottom;
-}
+} */
 #bear1{
   border: 5px solid #8075ff;
 }
