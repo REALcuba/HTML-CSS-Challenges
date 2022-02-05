@@ -152,6 +152,26 @@ footer {
   color: #beee62;
 }
 
+.opossums{
+  background-color: blanchedalmond;
+}
+.opossums h2{
+  color: #e68240;
+  text-decoration:underline ;
+  text-align: center;
+}
+.opossums h4{
+  color: #c95d2b;
+  text-align: center;
+}
+.opossums p {
+  color: #8d340b;
+  text-align: center;
+}
+.opossums img{
+ border: solid 2px #65d26a;
+ justify-items: center;
+}
 .news h2{
   text-align: center;
 }
